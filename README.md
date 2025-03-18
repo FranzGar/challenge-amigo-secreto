@@ -20,7 +20,7 @@ Este proyecto es una aplicación web sencilla para la aplicación "Amigo Secreto
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu_usuario/amigo-secreto.git
+   git clone https://github.com/FranzGar/challenge-amigo-secreto.git
    ```
 
 2. Navega a la carpeta del proyecto:
